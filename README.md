@@ -1,6 +1,6 @@
 # PKUAutoSubmit-action
 
-百京大学燕园云战役自动填报小助手 Github Action
+百京大学燕园云战役自动填报小助手
 
 ## 工作原理
 
